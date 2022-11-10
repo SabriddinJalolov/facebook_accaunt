@@ -1,0 +1,139 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 100%;
+  height: 100vh;
+  background-color: rgb(235, 242, 242);
+}
+.wrapper {
+  display: flex;
+}
+
+.now_file_box {
+  width: 440px;
+  height: 374px;
+  margin-top: 150px;
+  margin-left: 310px;
+  background: #ffffff;
+  box-shadow: 0px 8px 0px rgba(0, 0, 0, 0.14688);
+  border-radius: 10px;
+}
+.facebook_box {
+  margin-top: 150px;
+  margin-left: 160px;
+}
+
+.facebok_box_title {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 50px;
+  line-height: 55px;
+  margin-bottom: 18px;
+  /* or 110% */
+
+  letter-spacing: -0.520833px;
+
+  color: #0770f1;
+}
+
+.facebok_box_desc {
+  color: #000000;
+  margin-bottom: 8px;
+}
+.facebok_box_desc_title {
+  color: #4f4f5c;
+}
+
+.input {
+  width: 380px;
+  height: 46px;
+  margin-top: 16px;
+  margin-left: 32px;
+ padding-left: 12px;
+  background: #ffffff;
+  border: 1px solid #5e54a4;
+  border-radius: 5px;
+}
+.login-inputs_btn {
+  width: 380px;
+  height: 46px;
+  margin-top: 16px;
+   margin-left: 32px;
+  background: #117ee4;
+
+  border-radius: 5px;
+  color: #ffffff;
+  border: none;
+}
+
+.submit_link{
+    margin-top: 16px;
+    margin-left: 162px;
+    color: #0770f1;
+}
+.linea{
+width: 380px;
+ margin-top: 16px;
+margin-left: 32px;
+border: 1px solid #a7a3a3;
+}
+
+.sozdat_accaunt{
+    width: 180px;
+  height: 46px;
+  margin-top: 16px;
+   margin-left: 132px;
+  background: #47ad1b;
+  
+  border-radius: 5px;
+  color: #ffffff;
+  border: none;
+}
+
+.stranitsa{
+    text-decoration: none;
+    color: #000000;
+    
+}
+.stran_title{
+    width: 380px;
+    margin-top: 28px;
+    margin-left: 350px;
+}
+
+.profil_img{
+    width: 149px;
+    height: 184px;
+    margin-top: 12px;
+    margin-left: 12px;
+    border-radius: 10px;
+    background-color: #ffffff;
+}
+.img{
+    border-radius: 10px 10px 0 0;
+}
+.user{
+    padding-left: 36px;
+}
+.dabovid{
+    display: flex;
+}
+.akkaunt{
+    width: 300px;
+    padding-left: 36px;
+    text-decoration: none;
+    color: #117ee4;
+}
+.profil_img2{
+      width: 149px;
+    height: 200px;
+    margin-top: 12px;
+    margin-left: 12px;
+    border-radius: 10px;
+    background-color: #ffffff;
+}
